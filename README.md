@@ -1,2 +1,3 @@
 # OPE-ENIAC
-Repositório do grupo de OPE ENIAC
+Repositório dos artefatos da OPE Eniac
+
